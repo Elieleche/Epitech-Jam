@@ -1,6 +1,7 @@
 import pygame
 import sys
 
+
 class MorpionGame:
     def __init__(self):
         pygame.init()
